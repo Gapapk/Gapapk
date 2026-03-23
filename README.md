@@ -1,4 +1,4 @@
 # 🦟 Салам!
 
-<img src="gore.png" alt="gore" width="500">
+<img src="gore.jpg" alt="gore" width="500">
 
